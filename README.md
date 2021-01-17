@@ -1,8 +1,8 @@
-# PyCon India 2020
+# BelPy 2021
 
 **Talk Title**: Towards a More Transparent AI: Decrypting ML Models using LIME
 
-**Time**: 2nd October 2020 17:50pm – 18:20 pm (IST)
+**Time**: TBD
 
 With wide no. of libraries & frameworks available for building ML models ML has become a black-box these days. Thus model interpretability is vital. But its hard to define a model’s decision boundary in simple terms. **With LIME its easy to produce faithful explanations and decrypt any ML model.**
 
